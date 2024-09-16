@@ -1,19 +1,12 @@
 {
     "name": "tp()入れた数字分上にtpして真下にブロックを置く",
     "description": "",
-    "dependencies": {
-        "core": "*",
-        "builder": "*",
-        "階段ブロックの向きを変える": "pub:78810-33687-62528-09919"
-    },
+
     "files": [
         "main.blocks",
         "main.ts",
         "README.md",
         "custom.ts"
-    ],
-    "testFiles": [
-        "test.ts"
     ],
     "targetVersions": {
         "branch": "v1.5.64",
